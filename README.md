@@ -6,3 +6,4 @@ https://github.com/hoaan1995/ZxCDDoS
 ⚠️ Disclaimer ⚠️
 
 I'm not responsible for your actions!
+The use of this software is your responsibility.
