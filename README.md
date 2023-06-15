@@ -10,4 +10,5 @@ https://github.com/R00tS3c/DDOS-RootSec
 I'm not responsible for your actions!
 The use of this software is your responsibility.
 
-⚠️ Do not claim this as your own ⚠️
+⚠️ Warning ⚠️
+Do not claim this as your own!
