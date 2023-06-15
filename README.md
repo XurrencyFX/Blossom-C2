@@ -1,3 +1,4 @@
 # Blossom-C2
 
-Fork from ZxCDDoS PANEL 🤝
+Inspired from ZxCDDoS PANEL 🤝💖
+https://github.com/hoaan1995/ZxCDDoS
