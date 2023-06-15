@@ -14,4 +14,8 @@ The use of this software is your responsibility
 
 WARNING
 
-Do not claim this as your own!
+Do not claim this as your own! Please give credit to
+
+R00tS3c https://github.com/R00tS3c
+ZxCDDoS
+XurrencyFX https://github.com/XurrencyFX
