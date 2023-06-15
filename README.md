@@ -2,6 +2,7 @@
 
 Inspired from ZxCDDoS PANEL 🤝💖
 https://github.com/hoaan1995/ZxCDDoS
+Inspired From DDOS-ROOTSEC
 
 ⚠️ Disclaimer ⚠️
 
