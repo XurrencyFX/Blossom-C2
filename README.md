@@ -15,6 +15,6 @@ Please do not claim this as your own!
 
 R00tS3c https://github.com/R00tS3c
 
-ZxCDDoS https://gitbuh.com/ZxCDDoS
+ZxCDDoS https://gitbub.com/ZxCDDoS
 
 XurrencyFX https://github.com/XurrencyFX
