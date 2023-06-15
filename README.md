@@ -9,8 +9,8 @@ https://github.com/R00tS3c/DDOS-RootSec
 Disclaimer
 
 I'm not responsible for your actions!
-
 The use of this software is your responsibility
 
-⚠️ Warning ⚠️
+WARNING
+
 Do not claim this as your own!
