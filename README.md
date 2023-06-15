@@ -1,10 +1,11 @@
-# Blossom-C2
+# 🌸Blossom-C2🌸
 
-Inspired from ZxCDDoS PANEL 🤝💖
+Inspired by ZxCDDoS 🤝💖
 https://github.com/hoaan1995/ZxCDDoS
-Inspired From DDOS-ROOTSEC
 
-⚠️ Disclaimer ⚠️
+Inspired by DDOS-R00tS3c 🤝💖
+https://github.com/R00tS3c/DDOS-RootSec
 
+⚠️Disclaimer⚠️
 I'm not responsible for your actions!
 The use of this software is your responsibility.
