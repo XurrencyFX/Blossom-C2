@@ -439,7 +439,7 @@ def main():
                 Port = cnc.split()[2]
                 Throttle = cnc.split()[3]
                 Time = cnc.split()[4]
-                os.system(f'./NTP {IP} {Port} NTP.txt {Throttle} {Time}')
+                os.system(f'./NTP {IP} {Port} ntp.txt {Throttle} {Time}')
             except IndexError:
                 print('Usage: NTP <IP> <Port> <Throttle> <Time>')
                 print('Example: NTP 1.1.1.1 22 250 60')
