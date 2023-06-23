@@ -9,7 +9,7 @@ var target = process.argv[2];
 const proxies = fs.readFileSync(process.argv[3], 'utf-8').replace(/\r/g, '').split('\n');
 var theproxy = 0;
 var parsed = url.parse(target);
-var proxy = proxies[theproxy];
+var proxy = proxies[http.txt];
  
 process.on('uncaughtException', (err) => {});
 process.on('unhandledRejection', (err) => {});
@@ -36,7 +36,7 @@ function Send()
     if (theproxy == proxies.length - 1) {
         theproxy = 0;
     }
-    proxy = proxies[theproxy];
+    proxy = proxies[http.txt];
     if (proxy && proxy.length > 5) {
         proxy = proxy.split(':');
     } else {
