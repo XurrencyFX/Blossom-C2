@@ -6,6 +6,8 @@ https://github.com/hoaan1995/ZxCDDoS
 Inspired by DDOS-R00tS3c 🤝💖
 https://github.com/R00tS3c/DDOS-RootSec
 
+Inspired by jgamblin 🤝💖 https://github.com/jgamblin/Mirai-Source-Code
+
 Disclaimer ⚠️
 
 The use of this software is your responsibility!
