@@ -20,3 +20,5 @@ R00tS3c https://github.com/R00tS3c
 ZxCDDoS [ Couldn't Find his account ]
 
 XurrencyFX https://github.com/XurrencyFX
+
+jgambling https://github.com/jgamblin
