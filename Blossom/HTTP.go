@@ -200,7 +200,7 @@ func flood() {
 			}
 			s.Close()
 		}
-		//fmt.Println("Threads@", threads, " Hitting Target -->", url)// For those who like share to skid.
+		//fmt.Println("Threads@", threads, " Hitting Target -->", url)//
 	}
 }
 
